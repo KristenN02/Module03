@@ -21,7 +21,7 @@ font-size: 16px;
 text-align:right; 
 border-right-style: solid; 
 border-right-width: 20px;
-border-color: blueviolet;
+border-color: plum;
 padding-right: 10px;
 padding-top: 10px;
 float: right;
@@ -71,11 +71,11 @@ section{
     border-style:solid;
     border-width:2px;
     margin-top:5%;
-    border-color:green;
+    border-color:blue;
     padding: 10px;
     border-left-style: solid; 
 border-left-width: 20px;
-border-color: green;
+border-color: blue;
 
 a:link{
     font-weight: bold;
